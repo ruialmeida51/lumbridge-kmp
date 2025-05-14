@@ -1,0 +1,4 @@
+<resources>
+    <string name="bottom_nav_tab_home">Home</string>
+    <string name="bottom_nav_tab_tools">Tools</string>
+</resources>
